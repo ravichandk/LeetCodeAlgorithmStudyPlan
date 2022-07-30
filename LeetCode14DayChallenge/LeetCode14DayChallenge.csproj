@@ -46,6 +46,8 @@
     <Compile Include="Day1\BadVersion.cs" />
     <Compile Include="Day1\BinarySearch.cs" />
     <Compile Include="Day1\SearchInsertPosition.cs" />
+    <Compile Include="Day2\RotateArray.cs" />
+    <Compile Include="Day2\SortedSquaresArray.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
