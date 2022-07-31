@@ -48,6 +48,8 @@
     <Compile Include="Day1\SearchInsertPosition.cs" />
     <Compile Include="Day2\RotateArray.cs" />
     <Compile Include="Day2\SortedSquaresArray.cs" />
+    <Compile Include="Day3\MoveZeroesSolution.cs" />
+    <Compile Include="Day3\TwoSumTarget.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
