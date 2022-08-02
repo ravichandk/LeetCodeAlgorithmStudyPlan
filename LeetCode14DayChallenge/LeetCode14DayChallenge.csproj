@@ -50,6 +50,8 @@
     <Compile Include="Day2\SortedSquaresArray.cs" />
     <Compile Include="Day3\MoveZeroesSolution.cs" />
     <Compile Include="Day3\TwoSumTarget.cs" />
+    <Compile Include="Day4\ReverseString.cs" />
+    <Compile Include="Day4\ReverseWords.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

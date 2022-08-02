@@ -15,7 +15,11 @@
 
             //Day 3:
             //Day3.MoveZeroesSolution.Solution();
-            Day3.TwoSumTarget.Solution();
+            //Day3.TwoSumTarget.Solution();
+
+            //Day 4:
+            //Day4.ReverseString.Solution();
+            Day4.ReverseWords.Solution();
         }
     }
 }
