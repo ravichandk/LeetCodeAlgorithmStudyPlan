@@ -19,7 +19,14 @@
 
             //Day 4:
             //Day4.ReverseString.Solution();
-            Day4.ReverseWords.Solution();
+            //Day4.ReverseWords.Solution();
+
+            //Day 5:
+            //Day5.LongestSubStringSolution.Solution();
+            //Day5.PermutationInString.Solution();
+
+            //Day 6:
+
         }
     }
 }

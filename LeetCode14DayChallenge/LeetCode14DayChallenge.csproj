@@ -52,6 +52,8 @@
     <Compile Include="Day3\TwoSumTarget.cs" />
     <Compile Include="Day4\ReverseString.cs" />
     <Compile Include="Day4\ReverseWords.cs" />
+    <Compile Include="Day5\LongestSubStringSolution.cs" />
+    <Compile Include="Day5\PermutationInString.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
