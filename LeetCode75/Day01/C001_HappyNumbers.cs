@@ -1,5 +1,5 @@
 ﻿
-namespace LeetCode75
+namespace LeetCode75.Day01
 {
     public class C001_HappyNumbers
     {

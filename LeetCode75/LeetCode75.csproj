@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="C002_SpiralOrder.cs" />
-    <Compile Include="C001_HappyNumbers.cs" />
+    <Compile Include="Day01\C002_SpiralOrder.cs" />
+    <Compile Include="Day01\C001_HappyNumbers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

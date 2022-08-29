@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LeetCode75
+namespace LeetCode75.Day01
 {
     public class C002_SpiralOrder
     {
