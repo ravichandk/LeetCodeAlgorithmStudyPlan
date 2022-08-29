@@ -45,7 +45,7 @@
                 }
 
                 characterSum = 0;
-                currentCharCount = new System.Collections.Generic.List<int[]>();
+                //currentCharCount = new System.Collections.Generic.List<int[]>();
             }
 
             var result = false;

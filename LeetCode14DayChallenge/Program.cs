@@ -1,4 +1,6 @@
-﻿namespace LeetCode14DayChallenge
+﻿using System.Web;
+
+namespace LeetCode14DayChallenge
 {
     class Program
     {
@@ -26,7 +28,12 @@
             //Day5.PermutationInString.Solution();
 
             //Day 6:
+            //Day6.IslandMaxArea.Solution();
 
+            //Day 8:
+
+            //Day10:
+            Day10.MergeSortedLists.Solution();
         }
     }
 }
