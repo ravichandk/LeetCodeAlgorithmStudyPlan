@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="Day01\C002_SpiralOrder.cs" />
     <Compile Include="Day01\C001_HappyNumbers.cs" />
+    <Compile Include="Day01\C003_Ball_Fall.cs" />
+    <Compile Include="Day02\C001_LongestCommonPrefix.cs" />
+    <Compile Include="Day02\C002_MultiplyStrings.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
