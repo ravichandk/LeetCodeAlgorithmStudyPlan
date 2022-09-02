@@ -14,7 +14,9 @@
             //Day03.C002_PalindromeLinkedList.Solution();
 
             //Day04.C001_OddEvenLinkedList.Solution();
-            Day04.C002_SortedLinkedList.Solution();
+            //Day04.C002_SortedLinkedList.Solution();
+
+            Day05.C001_LongestPalindromeString.Solution();
 
             System.Console.WriteLine("Press any key to exit");
             System.Console.ReadLine();

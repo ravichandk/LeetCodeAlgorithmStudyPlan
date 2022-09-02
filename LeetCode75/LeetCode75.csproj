@@ -53,6 +53,7 @@
     <Compile Include="Day03\C002_PalindromeLinkedList.cs" />
     <Compile Include="Day04\C001_OddEvenLinkedList.cs" />
     <Compile Include="Day04\C002_SortedLinkedList.cs" />
+    <Compile Include="Day05\C001_LongestPalindromeString.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
