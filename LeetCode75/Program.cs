@@ -16,7 +16,11 @@
             //Day04.C001_OddEvenLinkedList.Solution();
             //Day04.C002_SortedLinkedList.Solution();
 
-            Day05.C001_LongestPalindromeString.Solution();
+            //Day05.C001_LongestPalindromeString.Solution();
+            //Day05.MinimumSubSequence.Solution();
+            //Day05.C002_TaskScheduler.Solution();
+
+            Day06.C001_InvertBinaryTree.Solution();
 
             System.Console.WriteLine("Press any key to exit");
             System.Console.ReadLine();

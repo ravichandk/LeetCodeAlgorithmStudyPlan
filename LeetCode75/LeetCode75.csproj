@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayToLinkedList.cs" />
+    <Compile Include="ArrayToTreeNode.cs" />
     <Compile Include="Day01\C002_SpiralOrder.cs" />
     <Compile Include="Day01\C001_HappyNumbers.cs" />
     <Compile Include="Day01\C003_Ball_Fall.cs" />
@@ -54,6 +55,9 @@
     <Compile Include="Day04\C001_OddEvenLinkedList.cs" />
     <Compile Include="Day04\C002_SortedLinkedList.cs" />
     <Compile Include="Day05\C001_LongestPalindromeString.cs" />
+    <Compile Include="Day05\C002_TaskScheduler.cs" />
+    <Compile Include="Day06\C001_InvertBinaryTree.cs" />
+    <Compile Include="Day05\MinimumSubSequence.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
