@@ -56,6 +56,7 @@
     <Compile Include="Day04\C002_SortedLinkedList.cs" />
     <Compile Include="Day05\C001_LongestPalindromeString.cs" />
     <Compile Include="Day05\C002_TaskScheduler.cs" />
+    <Compile Include="Day06\C002_BalancedBinaryTree.cs" />
     <Compile Include="Day06\C001_InvertBinaryTree.cs" />
     <Compile Include="Day05\MinimumSubSequence.cs" />
     <Compile Include="Program.cs" />

@@ -4,7 +4,7 @@
     {
         public static void Solution()
         {
-            var treeNode = ArrayToTreeNode.Convert(new[] { 4, 2, 7, 1, 3, 6, 9 });
+            var treeNode = ArrayToTreeNode.Convert(new int?[] { 4, 2, 7, 1, 3, 6, 9 });
 
             var invertedTree = InvertTree(treeNode);
             var x = invertedTree;

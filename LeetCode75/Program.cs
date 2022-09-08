@@ -20,10 +20,12 @@
             //Day05.MinimumSubSequence.Solution();
             //Day05.C002_TaskScheduler.Solution();
 
-            Day06.C001_InvertBinaryTree.Solution();
+            //Day06.C001_InvertBinaryTree.Solution();
+            Day06.C002_BalancedBinaryTree.Solution();
 
             System.Console.WriteLine("Press any key to exit");
             System.Console.ReadLine();
         }
+
     }
 }
